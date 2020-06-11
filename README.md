@@ -1,5 +1,5 @@
 # DPC-DARTS
-This is a novel PC-DARTS, whose architecure is deversified by batch normalization. Our results show the number of parameters can be reduced 40% compared with DARTS.
+This is a novel PC-DARTS, whose architecure is deversified by batch normalization. Our results show the number of parameters can be reduced 40% compared with DARTS. Futher results, you can find on my paper.
 
 Abstract:
 
